@@ -10,7 +10,7 @@
 
 Your Fusion 360 may fail to respond for about 1 min but that's normal. You will see the thermal study result like this when finishing:
 
-![image-20201206220730132](C:\Users\Muphy\AppData\Roaming\Typora\typora-user-images\image-20201206220730132.png)
+![fig1](figs\fig1.png)
 
 <br/>
 
@@ -30,7 +30,7 @@ This script provides a plain method to access data in the VTU file exported in t
 
 You can see a preliminary implementation of implanted trace if everything goes well so far.
 
-![image-20201206222129956](C:\Users\Muphy\AppData\Roaming\Typora\typora-user-images\image-20201206222129956.png)
+![fig2](figs\fig2.png)
 
 <br/>
 
